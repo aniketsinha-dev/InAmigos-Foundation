@@ -6,15 +6,16 @@
 
 <br>
 
-Welcome to the repository for the **InAmigos Foundation** website. This platform is designed to serve the community, boost engagement, and provide complete transparency into our NGO operations.
+> **Internship Portfolio Project**
+> 
+> This repository is **NOT** the official repository of the InAmigos Foundation. It is a personal portfolio and internship project developed by **[Aniket Kumar Sinha](https://www.linkedin.com/in/aniketsinha-dev)** during an internship assignment with the organization. The logos, trademarks, and organization details used within this project belong to their respective owners (InAmigos Foundation) and are used here solely for demonstrative and educational purposes as part of the internship deliverables. For the official InAmigos Foundation website, please visit [inamigosfoundation.org.in](https://inamigosfoundation.org.in/).
 
-> **🎓 Internship Project Context:** 
-> This web platform was designed, developed, and optimized as an internship project by **[Aniket Kumar Sinha](https://www.linkedin.com/in/aniketsinha-dev)** for the InAmigos Foundation. The primary objective was to modernize the foundation's digital footprint by engineering a highly performant, accessible, and deeply SEO-optimized website to maximize their community outreach.
+Welcome to the internship assignment project repository for the **InAmigos Foundation** website revamp. This platform was designed to serve the community, boost engagement, and provide complete transparency into the NGO's operations. The primary objective of this internship project was to engineer a highly performant, accessible, and deeply SEO-optimized website to maximize community outreach.
 
-## 🌟 About Us
-**InAmigos Foundation** is a Section 8 registered non-profit organization founded on September 23, 2020. Our operations span across 28 states in India, focusing on providing essential support to the underprivileged. 
+## 🌟 About the Foundation
+**InAmigos Foundation** is a Section 8 registered non-profit organization founded on September 23, 2020. Their operations span across 28 states in India, focusing on providing essential support to the underprivileged. 
 
-We operate through six primary flagship projects:
+They operate through six primary flagship projects:
 - 🍲 **Project Seva:** Food and clothing distribution.
 - 📚 **Project Bachpanshala:** Child education and mentorship.
 - 🐾 **Project Jeev:** Animal rescue, welfare, and rehabilitation.
@@ -34,13 +35,13 @@ This repository is heavily optimized for fast rendering and search engine rankin
 - **Typography & Icons:** Google Fonts (Inter, Poppins), FontAwesome 6
 
 ## 🤝 Get Involved
-We believe that small actions multiplied can change lives.
-- **Volunteer:** [Join our community of changemakers](https://forms.gle/AB4c1hLaDDmtrKGU7)
-- **Donate:** [Support our mission securely via Razorpay](https://rzp.io/l/kWQ87HP)
-- **Partner with us:** We are CSR-1 registered and welcome high-impact corporate social responsibility (CSR) partnerships.
+The foundation believes that small actions multiplied can change lives.
+- **Volunteer:** [Join their community of changemakers](https://forms.gle/AB4c1hLaDDmtrKGU7)
+- **Donate:** [Support their mission securely via Razorpay](https://rzp.io/l/kWQ87HP)
+- **Partner:** They are CSR-1 registered and welcome high-impact corporate social responsibility (CSR) partnerships.
 
 ## 📜 Certifications & Compliance
-As an organization committed to absolute transparency, we hold the following credentials:
+As an organization committed to absolute transparency, the foundation holds the following credentials:
 - **80G & 12A Certified:** Donations are tax-exempt under the Income Tax Act.
 - **CSR-1 Registered:** Authorized for direct corporate partnerships.
 - **NITI Aayog Listed.**
