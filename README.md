@@ -1,7 +1,9 @@
 # InAmigos Foundation - Empowering Lives, Spreading Compassion 🌍
 
 <div align="center">
-  <img src="assets/logo.webp" alt="InAmigos Foundation Logo" width="150" />
+  <img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/logo.webp" alt="InAmigos Foundation Logo" width="150" />
+  
+  <h3><strong>🌍 <a href="https://aniketsinha-dev.github.io/InAmigos-Foundation/" target="_blank">View Live Website</a> 🌍</strong></h3>
 </div>
 
 <br>
@@ -53,9 +55,10 @@ As an organization committed to absolute transparency, the foundation holds the 
 - **Headquarters:** Ward No. 5, Gram Post, Sipat Ujwal Nagar, Bilaspur, Chhattisgarh 495555
 - **Social Media:** 
   - [LinkedIn](https://www.linkedin.com/company/inamigos-foundation/)
-  - [Instagram](https://www.instagram.com/inamigosfoundation/)
+  - [Instagram](https://www.instagram.com/inamigos/)
   - [Twitter](https://twitter.com/InamigosF)
   - [Facebook](https://www.facebook.com/inamigos.inamigos)
+  - [YouTube](https://www.youtube.com/@inamigosfoundation)
 
 ---
 *Developed with ❤️ by [Aniket Kumar Sinha](https://www.linkedin.com/in/aniketsinha-dev)*
