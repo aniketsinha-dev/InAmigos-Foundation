@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aniketsinha-dev.github.io/InAmigos-Foundation/sitemap.xml
+Sitemap: https://inamigos-foundation-aniket.vercel.app/sitemap.xml

@@ -1,9 +1,9 @@
 # InAmigos Foundation - Empowering Lives, Spreading Compassion 🌍
 
 <div align="center">
-  <img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/logo.webp" alt="InAmigos Foundation Logo" width="150" />
+  <img src="https://inamigos-foundation-aniket.vercel.app/assets/logo.webp" alt="InAmigos Foundation Logo" width="150" />
 </div>
-<h3><strong>🌍 <a href="https://aniketsinha-dev.github.io/InAmigos-Foundation/" target="_blank">View Live Website</a> 🔗</strong></h3>
+<h3><strong>🌍 <a href="https://inamigos-foundation-aniket.vercel.app/" target="_blank">View Live Website</a> 🔗</strong></h3>
 
 Welcome to the internship assignment project repository for the **InAmigos Foundation** website revamp. This platform was designed to serve the community, boost engagement, and provide complete transparency into the NGO's operations. The primary objective of this internship project was to engineer a highly performant, accessible, and deeply SEO-optimized website to maximize community outreach.
 
@@ -35,73 +35,73 @@ This repository is heavily optimized for fast rendering and search engine rankin
 
 ### Home & Hero
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/hero-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/hero-section.png" width="800">
 
 <br>
 
 ### About the Foundation
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/about-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/about-section.png" width="800">
 
 <br>
 
 ### Our Flagship Projects
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/project-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/project-section.png" width="800">
 
 <br>
 
 ### Moments from the Ground
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/gallery-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/gallery-section.png" width="800">
 
 <br>
 
 ### Why It Matters
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/why-it-matters-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/why-it-matters-section.png" width="800">
 
 <br>
 
 ### Impact & Statistics
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/stats-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/stats-section.png" width="800">
 
 <br>
 
 ### Join Our Community
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/join-us-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/join-us-section.png" width="800">
 
 <br>
 
 ### Volunteer Team
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/team-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/team-section.png" width="800">
 
 <br>
 
 ### Frequently Asked Questions
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/faq-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/faq-section.png" width="800">
 
 <br>
 
 ### Get Involved (CTA)
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/cta-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/cta-section.png" width="800">
 
 <br>
 
 ### Contact Us
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/contact-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/contact-section.png" width="800">
 
 <br>
 
 ### Footer Navigation
 
-<img src="https://aniketsinha-dev.github.io/InAmigos-Foundation/assets/visuals/footer-section.png" width="800">
+<img src="https://inamigos-foundation-aniket.vercel.app/assets/visuals/footer-section.png" width="800">
 
 </div>
 
